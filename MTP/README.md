@@ -1,1 +1,1 @@
-# MTP (Medii si Tehnologii de Programare)
+#MTP (Medii si Tehnologii de Programare)
