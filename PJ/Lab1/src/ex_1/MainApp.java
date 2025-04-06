@@ -1,7 +1,5 @@
-/*
- Se cere sa se scrie un program Java care sa calculeze si sa afiseze perimetrul si aria unui
- dreptunghi. Valorile pentru lungime si latime se citesc de la tastatura.
-*/
+// Sa se scrie un program Java care sa calculeze si sa afiseze perimetrul si aria unui
+// dreptunghi. Valorile pentru lungime si latime se citesc de la tastatura.
 
 package ex_1;
 

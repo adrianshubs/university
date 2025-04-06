@@ -1,3 +1,6 @@
+// Sa se scrie un program care citeste un numar n natural de la tastatura si afiseaza toti
+// divizorii acestuia pe ecran. Daca numarul este prim se va afisa un mesaj corespunzator.
+
 package ex_3;
 
 import java.util.Scanner;
@@ -16,7 +19,7 @@ public class MainApp {
         } else if (n == 1) {
             System.out.println("Numarul 1 are un divizor, nu este nici prim, nici compus");
         } else {
-            // Afișarea divizorilor numărului
+            // Afișarea divizorilor numarului
             System.out.println("Divizorii lui " + n + " sunt: ");
             int counter = 0;
 
@@ -27,7 +30,7 @@ public class MainApp {
                 }
             }
 
-            // Verificarea dacă numărul este prim sau compus
+            // Verificarea dacă numarul este prim sau compus
             if (counter == 2) {
                 System.out.println("Numarul " + n + " este numar prim");
             } else {
